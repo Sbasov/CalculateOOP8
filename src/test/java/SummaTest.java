@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by User on 19.09.2018.
+ * Created by Stepan Basov on 19.09.2018.
  */
 public class SummaTest {
        @Test

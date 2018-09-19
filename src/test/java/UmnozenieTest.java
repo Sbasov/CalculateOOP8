@@ -4,7 +4,7 @@ import static org.hamcrest.core.IsEqual.equalTo;
 import static org.junit.Assert.*;
 
 /**
- * Created by User on 19.09.2018.
+ * Created by Stepan Basov on 19.09.2018.
  */
 public class UmnozenieTest {
     @Test
